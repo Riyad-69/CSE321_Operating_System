@@ -1,0 +1,17 @@
+ls
+pwd
+ecit
+pwd
+echo Hello World
+echo Hi Family
+echo "Whats upp?" > test0.txt
+echo "Im good" >> test0.txt
+cat <test0.txt
+ls| grep ".c"
+cat test0.txt | sort | uniq
+echo "Yoo" 
+ echo "hey" 
+ echo "hi"
+mkdir shahil 
+ ls
+ls
